@@ -1,4 +1,4 @@
-import { ncsu, persistent, salesforce } from '../assets/assets';
+import { ncsu, persistent, salesforce } from '../../public/assets/assets';
 
 export const name = 'Cody Nesbitt';
 
