@@ -40,7 +40,7 @@ export const experiences = [
         ],
     },
     {
-        title: 'Bachelor Of Computer Science',
+        title: 'Bachelor of Computer Science',
         company_name: 'North Carolina State University',
         icon: ncsu,
         //iconBg: 'var(--theme-color-darkcolor)',
