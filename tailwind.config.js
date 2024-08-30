@@ -7,7 +7,6 @@ export default {
     ],
     theme: {
         fontFamily: {
-            //'display': 'VT323',
             'display': 'Yeseva One',
             'sans': 'Roboto Mono',
         },

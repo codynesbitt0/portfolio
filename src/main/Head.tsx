@@ -33,7 +33,7 @@ export default function Head() {
                 </div>
             </div>
             <div className='h-52 w-52'>
-                <img src='/src/assets/me_brick.jpg' />
+                <img src='/src/assets/me.jpg' />
             </div>
         </div>
     );
