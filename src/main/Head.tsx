@@ -25,7 +25,7 @@ export default function Head() {
                         <AiFillLinkedin />
                     </a>
                     <a
-                        href='/public/assets/resume.pdf'
+                        href='/assets/resume.pdf'
                         download
                     >
                         <HiDocumentDownload />
@@ -33,7 +33,7 @@ export default function Head() {
                 </div>
             </div>
             <div className='h-52 w-52'>
-                <img src='/public/assets/me.jpg' />
+                <img src='/assets/me.jpg' />
             </div>
         </div>
     );
