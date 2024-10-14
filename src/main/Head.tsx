@@ -25,7 +25,7 @@ export default function Head() {
                         <AiFillLinkedin />
                     </a>
                     <a
-                        href='/assets/Cody Nesbitt Resume.pdf'
+                        href='/assets/Cody_Nesbitt_Resume.pdf'
                         download
                     >
                         <HiDocumentDownload />
